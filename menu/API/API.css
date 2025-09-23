@@ -30,7 +30,7 @@ h1{
     padding: 10px;
     width: 200px;
     border-radius: 8px;
-    border: 1px solid #5e0a0a;
+    border: 1px solid #0a175e;
     box-shadow: 0 2px 8px #000000a2;
 }
 
@@ -39,14 +39,14 @@ h1{
     margin-left: 5px;
     border: none;
     border-radius: 8px;
-    background-color: #662191;
+    background-color: #212c91;
     color: #fff;
     cursor: pointer;
     transition: 0.3s;
 }
 
 #searchBtn:hover{
-    background-color: #7127ae;
+    background-color: #2730ae;
     box-shadow: 0 2px 8px #000000a2;;
 }
 
@@ -79,8 +79,8 @@ h1{
 }
 
 .card:hover h3{
-    color: #732191;
-    text-shadow: 0 2px 8px rgb(96, 0, 128);
+    color: #232191;
+    text-shadow: 0 2px 8px rgb(2, 0, 128);
 }
 
 .card:hover img{
