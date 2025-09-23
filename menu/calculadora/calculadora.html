@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Calculadora</title>
+  <link rel="stylesheet" href="calculadora.css" />
+</head>
+<body>
+  <div class="container">
+    <div class="top-bar">
+      <span class="title">calculadora</span>
+      <div class="theme-toggle">
+        <!-- <span>THEME</span> -->
+        <label class="switch">
+          <input type="checkbox" id="theme-toggle">
+          <!-- <span class="slider"></span> -->
+        </label>
+      </div>
+    </div>
+
+    <input type="text" id="display" disabled />
+
+    <div class="buttons">
+      <button onclick="append('7')">7</button>
+      <button onclick="append('8')">8</button>
+      <button onclick="append('9')">9</button>
+      <button class="del" onclick="delChar()">DEL</button>
+
+      <button onclick="append('4')">4</button>
+      <button onclick="append('5')">5</button>
+      <button onclick="append('6')">6</button>
+      <button onclick="append('+')">+</button>
+
+      <button onclick="append('1')">1</button>
+      <button onclick="append('2')">2</button>
+      <button onclick="append('3')">3</button>
+      <button onclick="append('-')">-</button>
+
+      <button onclick="append('.')">.</button>
+      <button onclick="append('0')">0</button>
+      <button onclick="append('/')">/</button>
+      <button onclick="append('*')">×</button>
+
+      <button class="reset" onclick="clearDisplay()">RESET</button>
+      <button class="equal" onclick="calculate()">=</button>
+    </div>
+  </div>
+
+  <script src="calculadora.js"></script>
+</body>
+</html>
