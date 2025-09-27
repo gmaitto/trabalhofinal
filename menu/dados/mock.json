@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "descricao": "Corolla Cross",
+        "imagem": "../Dados/images/corolla.webp",
+        "preco": 212890.0
+    },
+    {
+        "id": 2,
+        "descricao": "Omoda ES",
+        "imagem": "../Dados/images/omoda.webp",
+        "preco": 209990.0
+    },
+    {
+        "id": 3,
+        "descricao": "BYD Song Plus",
+        "imagem": "../Dados/images/byd.webp",
+        "preco": 299800.0
+    },
+    {
+        "id": 4,
+        "descricao": "Jaecoo 7",
+        "imagem": "../Dados/images/jaecoo.webp",
+        "preco": 249990.0
+    },
+    {
+        "id": 5,
+        "descricao": "Renault Master ",
+        "imagem": "../Dados/images/master.webp",
+        "preco": 270100.0
+    },
+    {
+        "id": 6,
+        "descricao": "BYD Song Pro",
+        "imagem": "../Dados/images/song.webp",
+        "preco": 199990.0
+    },
+    {
+        "id": 7,
+        "descricao": "Hyundai Creta",
+        "imagem": "../Dados/images/creta.webp",
+        "preco": 162490.0
+    },
+    {
+        "id": 8,
+        "descricao": "Renault Duster",
+        "imagem": "../Dados/images/duster.webp",
+        "preco": 130990.0
+    },
+     {
+        "id": 9,
+        "descricao": "Chevrolet Onix",
+        "imagem": "../Dados/images/onix.webp",
+        "preco": 112990.0
+     },
+     {
+        "id": 10,
+        "descricao": "Renault Oroch",
+        "imagem": "../Dados/images/oroch.webp",
+        "preco": 140790.0
+         },
+     {
+        "id": 11,
+        "descricao": "Toyota Corolla",
+        "imagem": "../Dados/images/toyota.webp",
+        "preco": 168890.0
+         },
+     {
+        "id": 12,
+        "descricao": "Toyota Hilux",
+        "imagem": "../Dados/images/hilux.webp",
+        "preco": 353290.0
+      },
+     {
+        "id": 13,
+        "descricao": "Chevrolet Tracker",
+        "imagem": "../Dados/images/tracker.webp",
+        "preco": 141990.0
+         },
+     {
+        "id": 14,
+        "descricao": "Fiat Fiorino",
+        "imagem": "../Dados/images/fiorino.jpg",
+        "preco": 109990.0
+         },
+     {
+        "id": 15,
+        "descricao": "Hyundai HB20",
+        "imagem": "../Dados/images/hb20.webp",
+        "preco": 101210.0
+    },
+     {
+        "id": 16,
+        "descricao": "Hyundai Kona",
+        "imagem": "../Dados/images/kona.webp",
+        "preco": 214990.0
+     }
+]
